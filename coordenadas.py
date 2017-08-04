@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------
-# Autor: Dirk Tiede - UNIGIS
+# Autor: Dirk Tiede - UNIGIS - tes1
 # Fecha: 10/01/2017
 # Contacto: Antonio Pantoja @PantojaAntonio apantoja.ciat@gmail.com
 # convertir coordenadas de escritura decimal, a grados, minutos, segundos
